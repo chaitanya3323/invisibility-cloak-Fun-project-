@@ -11,4 +11,4 @@ For creating your own cloak at your home follow the steps after cloning the repo
 3.Find the RGB value of the color you want to make invisible, I choose red because I had a plain red cloth .
 
 
-4.Both file has comments to make things clear and read the opencv documents for more details.
+4.Both file has comments to make things clear and read the opencv documentation for more details.
