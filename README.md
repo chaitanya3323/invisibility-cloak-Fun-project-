@@ -1,14 +1,11 @@
-# invisibility-cloak-Fun-project-
-cloak using opencv.
+# Invisibility Cloak Fun Project
 
-For creating your own cloak at your home follow the steps after cloning the repository-
-1.Open the file named 'invisibility cloak using opencv' 
+## Library Used
+- OpenCV
 
+# For creating your own cloak at your home follow the steps after cloning the repository-
 
-2.Capture the background of your room and then use it the file 'cloak'.
-
-
-3.Find the RGB value of the color you want to make invisible, I choose red because I had a plain red cloth .
-
-
-4.Both file has comments to make things clear and read the opencv documentation for more details.
+- Open the file named 'invisibility cloak using opencv' 
+- Capture the background of your room and then use it the file 'cloak'.
+- Find the RGB value of the color you want to make invisible, I choose red because I had a plain red cloth .
+- Both file has comments to make things clear and read the opencv documentation for more details.
